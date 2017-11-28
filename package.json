@@ -1,0 +1,12 @@
+{
+  "name": "delay-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "rm /tmp/queue.sock && node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
